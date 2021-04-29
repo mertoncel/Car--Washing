@@ -1,0 +1,5 @@
+20 20 10 30 5
+1 kopukleme 30 15
+2 yikama 50 10
+3 kurulama 100 5
+4 cilalama 20 50
